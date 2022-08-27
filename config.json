@@ -1,20 +1,20 @@
-{ 
-  “app_id” ： “ wx7e68372498f878e7 ” ， 
-  “app_secret” ： “ 8b7fde3bfecd55158395a8d2d54a344d ” ， 
-  “template_id” ： “  	9HAj0i4iLAWoLnn7SMBxbC4UGdG8Y80tPZd2NdEoLsE ” ， 
-  “用户” ：[ “ ohglR6YOiscb0_tX4HH0D2LMOkXs ” ， “ ohglR6Rmw27OPcyyeWJtjgLymF8Q ” ]， 
-  “省” ： “ \u8d35\u5dde ” ， 
-  “城市” ： “ \u94dc\u4ec1 ” ， 
-  “生日1” ： “ r2000-2-21 ” ， 
-  “生日2” ： “ r2000-11-7 ” ， 
-  “生日 3” ： “ 1997-01-03 ” ， 
-  “love_date” ： “ 2017-8-4 ” ， 
-  “Whether_Eng” ： “ 真 ” ， 
-  "Whether_caihongpi" : false , 
-  "Whether_lizhi" : false , 
-  “Whether_tip” ： 假 ， 
-  “是否健康” ： 假 ， 
-  “Whether_lucky” ： 假 ， 
-  “天 ： “ e2f02e8c0cace36880def399e6b875cc ” ， 
-  “天文” ： “ \u53cc\u9c7c\u5ea7 ” 
-} 
+{
+  "app_id": "wx7e68372498f878e7", 
+  "app_secret": "8b7fde3bfecd55158395a8d2d54a344d", 
+  "template_id": "9HAj0i4iLAWoLnn7SMBxbC4UGdG8Y80tPZd2NdEoLsE", 
+  "user": ["ohglR6YOiscb0_tX4HH0D2LMOkXs", "ohglR6Rmw27OPcyyeWJtjgLymF8Q"], 
+  "province": "\u8d35\u5dde", 
+  "city": "\u94dc\u4ec1", 
+  "birthday1": "r2000-2-21", 
+  "birthday2": "r2000-11-7", 
+  "birthday3": "1997-01-03", 
+  "love_date": "2017-8-4", 
+  "Whether_Eng": "true", 
+  "Whether_caihongpi": false, 
+  "Whether_lizhi": false, 
+  "Whether_tip": false, 
+  "Whether_health": false, 
+  "Whether_lucky": false, 
+  "tianxing_API": "e2f02e8c0cace36880def399e6b875cc", 
+  "astro": "\u53cc\u9c7c\u5ea7"
+}
